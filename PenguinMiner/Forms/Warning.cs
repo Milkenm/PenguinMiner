@@ -7,7 +7,7 @@ namespace PenguinMiner.Forms
 {
 	public partial class Warning : Form
 	{
-		private int CountDown = 1;
+		private int CountDown = 15;
 		private int DisableWarningClicker = 50;
 
 		public Warning()
